@@ -1,5 +1,5 @@
-def call(Bool tests) {
-    if tests {
+def call(Boolean tests) {
+    if (tests) {
     echo 'Running tests'
 }
    else {
